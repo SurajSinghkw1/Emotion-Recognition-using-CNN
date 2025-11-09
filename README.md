@@ -155,3 +155,13 @@ python run_model_test.py
 If webcam doesn't open on your machine, use the image or video options, run `camera_diag.py` for diagnostics, or install `ffmpeg` and ask for an ffmpeg fallback.
 
 That's it — this README is intentionally minimal. If you want the longer troubleshooting guide again, say so and I'll restore it.
+<img width="1477" height="824" alt="Screenshot 2025-11-09 180234" src="https://github.com/user-attachments/assets/4c5cd830-fddd-4795-af90-8bf80e68289e" />
+<img width="637" height="717" alt="Screenshot 2025-11-09 180503" src="https://github.com/user-attachments/assets/8f96e995-61d1-4850-9e09-3ed22308b94a" />
+<img width="1793" height="886" alt="Screenshot 2025-11-09 214229" src="https://github.com/user-attachments/assets/5ab6f798-1a2b-45d6-bc92-2668385322ae" />
+<img width="1277" height="672" alt="Screenshot 2025-11-09 214340" src="https://github.com/user-attachments/assets/5aee65ae-5eae-40b6-b244-8aa0351be183" />
+<img width="1513" height="873" alt="Screenshot 2025-11-09 214435" src="https://github.com/user-attachments/assets/1a4ca02c-8a4e-4417-a22a-a177d488fcd8" />
+<img width="981" height="282" alt="Screenshot 2025-11-09 214652" src="https://github.com/user-attachments/assets/5a4d3ba3-4cc3-40c1-843d-6c4a5fa83729" />
+
+
+
+
