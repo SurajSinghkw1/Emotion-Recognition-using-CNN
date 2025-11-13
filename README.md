@@ -146,10 +146,12 @@ python -m pip install -r requirements.txt
 python test.py
 ```
 
-4) Quick model load test (no camera needed)
+4) Quick model load test (no camera needed) 
 
 ```cmd
 python run_model_test.py
+
+
 ```
 
 If webcam doesn't open on your machine, use the image or video options, run `camera_diag.py` for diagnostics, or install `ffmpeg` and ask for an ffmpeg fallback.
@@ -163,5 +165,7 @@ That's it — this README is intentionally minimal. If you want the longer troub
 <img width="981" height="282" alt="Screenshot 2025-11-09 214652" src="https://github.com/user-attachments/assets/5a4d3ba3-4cc3-40c1-843d-6c4a5fa83729" />
 
 
+5) to get dataset
+   "C:\Users\Neera\OneDrive\Desktop\Facial-Emotion-Recognition-main\dataset" or go to kaggle and search for FEK2013
 
 
